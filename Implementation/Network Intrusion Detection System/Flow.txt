@@ -1,0 +1,15 @@
+Intro and What is network and intrusion and lavda - Pranav
+dataset - vishi boi
+classfication as what is binary and multi label - vagoos
+Preporcessing and Normalisation - Suri 
+Ma'am done Model in Order -
+
+Linear ,Logistic regression - Surii
+
+Decision, Random Tree - Vagoos
+
+KNN ,SVM - Vishi
+
+Multi Level Perceptron - Pranav
+
+
